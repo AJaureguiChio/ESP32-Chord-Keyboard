@@ -294,7 +294,7 @@ refactor: cambios en código sin cambiar comportamiento
 
 ### Video del funcionamiento del proyecto
 
-▶ [Evidencia del funcionamiento del Proyecto]([Video_Proyecto.mp4](https://youtu.be/WjUWCTgEFi4))
+▶ [Evidencia del funcionamiento del Proyecto](https://youtu.be/WjUWCTgEFi4)
 
 ### Nombre del dispositivo Bluetooth
 
