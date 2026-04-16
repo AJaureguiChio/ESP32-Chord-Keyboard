@@ -286,15 +286,15 @@ refactor: cambios en código sin cambiar comportamiento
 
 ### Video tutorial de armado e instalación
 
-▶ ![https://www.youtube.com/watch?v=hZKu84aT80w](https://www.youtube.com/watch?v=hZKu84aT80w)
+▶ [https://www.youtube.com/watch?v=hZKu84aT80w](https://www.youtube.com/watch?v=hZKu84aT80w)
 
 ### Foto del proyecto armado
 
-![Proyecto armado en protoboard con ESP32 y 5 botones de colores](foto_proyecto.jpg)
+![Proyecto armado en protoboard con ESP32 y 5 botones de colores || 600](foto_proyecto.jpg)
 
 ### Video del funcionamiento del proyecto
 
-![Evidencia del funcionamiento del Proyecto](Video_Proyecto.mp4)
+▶ [Evidencia del funcionamiento del Proyecto]([Video_Proyecto.mp4](https://youtu.be/WjUWCTgEFi4))
 
 ### Nombre del dispositivo Bluetooth
 
