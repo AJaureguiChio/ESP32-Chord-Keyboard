@@ -296,6 +296,10 @@ refactor: cambios en código sin cambiar comportamiento
 
 ▶ [Evidencia del funcionamiento del Proyecto](https://youtu.be/WjUWCTgEFi4)
 
+### Diagrama pictórico
+
+![Diagrama pictorico](DiagramaPictorico.png)
+
 ### Nombre del dispositivo Bluetooth
 
 Una vez encendido y emparejado, el dispositivo aparece como:
