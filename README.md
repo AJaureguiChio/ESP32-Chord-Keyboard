@@ -298,7 +298,7 @@ refactor: cambios en código sin cambiar comportamiento
 
 ### Diagrama pictórico
 
-![Diagrama pictorico](DiagramaPictorico.png)
+![Diagrama pictorico](DiagramaPictorico.png) 
 
 ### Nombre del dispositivo Bluetooth
 
